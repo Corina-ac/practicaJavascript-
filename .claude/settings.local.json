@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(git -C \"c:/Users/Derik/Desktop/laboratorio-js-logica \\(2\\)/laboratorio-js-logica\" status --short)",
-      "Bash(git -C \"c:/Users/Derik/Desktop/laboratorio-js-logica \\(2\\)/laboratorio-js-logica\" diff --stat)"
-    ]
-  }
-}
